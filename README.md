@@ -11,3 +11,9 @@ go awesome for CZ
 ## Cache
 
 * [Ristretto](https://github.com/dgraph-io/ristretto) DGraph出品
+
+## RPC or MicroService
+
+* [kratos](https://github.com/go-kratos/kratos) B站出品
+* [gRPC](https://github.com/grpc/grpc-go) GRPC Go实现
+* [go-kit](https://github.com/go-kit/kit) gokit
